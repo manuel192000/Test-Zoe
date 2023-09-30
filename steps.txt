@@ -1,0 +1,9 @@
+To start a new cypress project : 
+
+1/Create json file package file : npm -i init
+2/install cypress : npm install cypress 
+3/start cypress : npx cypress open 
+4/To run the tests from the console : npx cypress run 
+5/to run a specific test from the console : npx cypress run --spec (path to the file to run)
+6/to run the test in a specific browser the same as step 5 and add : --browser chrome
+7/If we want to see the execution from the cypress runner when we execute from the console we must add : --headed
