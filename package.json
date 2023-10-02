@@ -18,5 +18,8 @@
   "homepage": "https://github.com/manuel192000/Test-Zoe#readme",
   "dependencies": {
     "cypress": "^13.3.0"
+  },
+  "devDependencies": {
+    "cypress-slow-down": "^1.2.1"
   }
 }
